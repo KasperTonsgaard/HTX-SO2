@@ -1,2 +1,4 @@
-fpdf==1.7.2
+pypdf==1.13
 pyttsx3==2.7
+appJar==0.93.0
+pywin32
